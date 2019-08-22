@@ -20,7 +20,7 @@ class SearchBar extends React.Component {
             handleUpdate={this.props.handleUpdate}
           />
           <FilterOptions
-            FilterOption={this.props.FilterOption}
+            filterOption={this.props.filterOption}
             handleFilterChange={this.props.handleFilterChange}
           />
         </div>
