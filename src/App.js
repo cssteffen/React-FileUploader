@@ -2,10 +2,6 @@ import React from "react";
 import SearchBar from "./SearchBar/SearchBar";
 import "./App.css";
 import FilterableList from "./FilterableList/FilterableList";
-import ListItem from "./ListItem/ListItem";
-import ControlBar from "./ControlBar/ControlBar";
-import SearchBox from "./SearchBox/SearchBox";
-import FilterOptions from "./FilterOptions/FilterOptions";
 
 /*to add state to the App component create a constructor 
 and write an instance property named state. 

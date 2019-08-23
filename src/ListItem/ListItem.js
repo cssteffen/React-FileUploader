@@ -20,7 +20,7 @@ export default class ListItem extends React.Component {
       jpg: faFileImage,
       mov: faFileVideo,
       txt: faFileAlt,
-      mps: faFileAudio
+      mp3: faFileAudio
     };
     return (
       <div className="ListItem">
